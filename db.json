@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "id": 5,
+      "title": "json-server 5",
+      "body": "typicode"
+    },
+    {
+      "title": "fxdfxcvcx",
+      "body": "fxdfxcvcx",
+      "id": 6
+    },
+    {
+      "title": "sfdsfsdfds",
+      "body": "sfdsfsdfds",
+      "id": 7
+    },
+    {
+      "title": "",
+      "body": "",
+      "id": 8
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
